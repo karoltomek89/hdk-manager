@@ -31,8 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
-/src/main/java/com/kt/springmvc/HdkManager/HdkManagerApplication.java
-/src/test/java/com/kt/springmvc/HdkManager/HdkManagerApplicationTests.java
 /.mvn/wrapper/maven-wrapper.jar
 /.mvn/wrapper/maven-wrapper.properties
 /.mvn/wrapper/MavenWrapperDownloader.java
