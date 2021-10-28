@@ -1,0 +1,39 @@
+Administraotr
+
+Loguje siê >>> rejestruje u¿ytkownika >>> aktywuje konto u¿ytkownika Senior/Junior >>> wylogowywuje siê
+Loguje siê >>> sprawdza listê zarejestrowanych u¿ytkowników Senior/Junior >>> aktywuje konta u¿ytkowników >>> wylogowywuje siê
+Loguje siê >>> sprawdza listê aktywnych u¿ytkowników Senior/Junior >>> deaktywuje konta u¿ytkowników >>> wylogowywuje siê
+Loguje siê >>> sprawdza listê nieaktywnych u¿ytkowników Senior/Junior >>> usuwa nieaktywnych u¿ytkowników >>> wylogowywuje siê
+Loguje siê >>> sprawdza listê aktywnych u¿ytkowników Senior/Junior >>> zmienia role u¿ytkowników (Senior, Junior) >>> wylogowywuje siê
+Loguje siê >>> sprawdza informacje o swoim profilu
+Loguje siê >>> zmienia has³o do swojego konta
+Loguje siê >>> zmienia adres e-mail(jest to login) do swojego konta
+
+Senior
+
+Loguje siê >>> rejestruje u¿ytkownika Junior >>> aktywuje konto u¿ytkownika Junior >>> wylogowywuje siê
+Loguje siê >>> sprawdza listê zarejestrowanych u¿ytkowników Junior >>> aktywuje konta u¿ytkowników >>> wylogowywuje siê
+Loguje siê >>> sprawdza listê aktywnych u¿ytkowników Junior >>> deaktywuje konta u¿ytkowników >>> wylogowywuje siê
+Loguje siê >>> sprawdza listê nieaktywnych u¿ytkowników Junior >>> usuwa nieaktywnych u¿ytkowników >>> wylogowywuje siê
+Loguje siê >>> wyszukuje u¿ytkownika Junior/Senior >>> ustawia status sk³adki na op³acona na aktualny rok >>> wylogowywuje siê
+Loguje siê >>> sprawdza listê przes³anych potwierdzeñ oddania krwi przez Juniorów/Seniorów >>> zatwierdza oddania krwi >>> wylogowywuje siê
+Loguje siê >>> dodaje komunikat dla Juniorów i/lub Seniorów >>> wylogowywuje siê
+Loguje siê >>> wyszukuje konkretnego u¿ytkownika Juniro/Senior >>> sprawdza jego statyski oddawania krwi >>> wylogowywuje siê
+Loguje siê >>> ustawia ¿¹dany zakres czasowy >>> sprawdza statystyki oddawania krwi dla ca³ego klubu >>> wylogowywuje siê
+Loguje siê >>> sprawdza informacje o swoim profilu >>> wylogowywuje siê
+Loguje siê >>> zmienia has³o do swojego konta >>> wylogowywuje siê
+Loguje siê >>> zmienia adres e-mail(jest to login) do swojego konta >>> wylogowywuje siê
+Loguje siê >>> widzi najnowsze komunikaty dla Juniorów/Seniorów >>> wylogowywuje siê
+
+Junior
+
+Loguje siê >>> widzi najnowsze komunikaty dla Juniorów >>> wylogowywuje siê
+Loguje siê >>> prawdza swoje statyski oddawania krwi >>> wylogowywuje siê
+Loguje siê >>> sprawdza informacje o swoim profilu >>> wylogowywuje siê
+Loguje siê >>> zmienia has³o do swojego konta >>> wylogowywuje siê
+Loguje siê >>> zmienia adres e-mail(jest to login) do swojego konta >>> wylogowywuje siê
+Loguje siê >>> zmienia has³o do swojego konta >>> wylogowywuje siê
+Loguje siê >>> wype³nia formularz i dodaje potwierdzenie oddania krwi w postaci pliku >>> wylogowywuje siê
+Loguje siê >>> widzi czy przes³any formularz z potwierdzeniem zosta³ zaakceptowany >>> wylogowywuje siê
+Loguje siê >>> widzi komunikat, jeœli nie op³aci³ sk³adki na dany rok >>> wylogowywuje siê
+Loguje siê >>> sprawdza dane do op³acenia sk³adki >>> wylogowywuje siê
